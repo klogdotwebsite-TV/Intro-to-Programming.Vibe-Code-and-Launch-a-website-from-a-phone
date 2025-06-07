@@ -4,3 +4,6 @@
 [submodule "open-thoughts"]
 	path = open-thoughts
 	url = https://github.com/open-thoughts/open-thoughts.git
+[submodule "m-AI-8"]
+	path = m-AI-8
+	url = https://github.com/klogdotwebsite-TV/m-AI-8.git
