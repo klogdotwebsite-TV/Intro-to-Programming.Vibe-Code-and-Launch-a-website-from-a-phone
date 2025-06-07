@@ -1,3 +1,6 @@
 [submodule "BuildYourOwnLisp"]
 	path = BuildYourOwnLisp
 	url = git@github.com:orangeduck/BuildYourOwnLisp.git
+[submodule "open-thoughts"]
+	path = open-thoughts
+	url = https://github.com/open-thoughts/open-thoughts.git
